@@ -73,7 +73,7 @@ job_desc = st.text_area(
     height=220
 )
 
-# ---------------- UPLOAD RESUMES ----------------
+# ---------------- UPLOAD RESUMES ---------------
 st.subheader("📂 Upload Resumes (PDF)")
 
 uploaded_files = st.file_uploader(
